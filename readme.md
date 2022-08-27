@@ -23,4 +23,4 @@ scp\ConvPoint\examples\npm3d\run.sh
 
 ## result
 
-![pic](scp\instance.png)
+![pic](./scp/instance.png)
